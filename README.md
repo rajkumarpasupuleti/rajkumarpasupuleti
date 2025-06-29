@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajkumarpasupuleti
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Python Application development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
